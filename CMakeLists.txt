@@ -44,4 +44,4 @@ add_subdirectory(${PROJECT_EXT_LIB_DIR}/googletest/googletest-src
 
 
 add_subdirectory(src)
-#add_subdirectory(test)
+add_subdirectory(test)
