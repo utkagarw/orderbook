@@ -19,7 +19,7 @@ In the main directory execute the following commands :
 
 An execuatble named "orderbook" along with book.test will get generated in the bin folder
 
-</b>Run Steps - </b>
+<b>Run Steps - </b>
 
   - For Running orderbook - ./orderbook path/to/mktdatafile
   - For Running gtest - ./book.test
