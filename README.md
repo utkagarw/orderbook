@@ -4,12 +4,12 @@ This repository contains implementation of an order book.
 
 # Build
 
-Prerequisites : 
+<b>Prerequisites : </b>
   - Cmake version >= 2.8.7
   - c++11
   - g++-8.3
             
-Build Steps - 
+<b>Build Steps - </b> 
 
 In the main directory execute the following commands :
   - mkdir build
@@ -19,7 +19,7 @@ In the main directory execute the following commands :
 
 An execuatble named "orderbook" along with book.test will get generated in the bin folder
 
-Run Steps - 
+</b>Run Steps - </b>
 
   - For Running orderbook - ./orderbook path/to/mktdatafile
   - For Running gtest - ./book.test
