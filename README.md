@@ -4,9 +4,10 @@ This repository contains implementation of an order book.
 
 # Build
 
-Prerequisites - - Cmake version >= 2.8.7
-                - c++11
-                - g++-8.3
+Prerequisites : 
+  - Cmake version >= 2.8.7
+  - c++11
+  - g++-8.3
             
 Build Steps - 
 
