@@ -78,6 +78,7 @@ protected:
 				Trade::print(aPartialMatch->filled, aPartialMatch->px, aPartialMatch->ordId, aOrdId);
 			}
 		}
+		aMatchOrders.clear();
 	}
 };
 
